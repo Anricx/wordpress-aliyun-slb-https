@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Alien SLB HTTPS
+Plugin Name: Aliyun SLB HTTPS
 Plugin URI:  https://github.com/Anricx/wordpress-aliyun-slb-https
 Description: Prevent a redirect loop when Aliyun SLB in HTTPS mode and backend is HTTP.
 Version: 1.0.0
